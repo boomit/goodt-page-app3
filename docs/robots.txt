@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boomit.github.io/goodt-app-tester-app/sitemap.xml
